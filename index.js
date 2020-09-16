@@ -6,4 +6,5 @@ function theBeatlesPlay(musicians, instruments){
     var arrContent = muician[i] + " plays "+ instrument[i]
     musicArr.push(arrContent)
   }
+  return musicArr
 }
