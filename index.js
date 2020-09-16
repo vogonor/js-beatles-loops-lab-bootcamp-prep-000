@@ -18,7 +18,7 @@ function johnLennonFacts(johnFacts) {
     newFacts.push(jFact)
     
   }
-  return newF
+  return newFacts
 }
 
 
