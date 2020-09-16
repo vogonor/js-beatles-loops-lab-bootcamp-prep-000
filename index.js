@@ -13,8 +13,9 @@ function johnLennonFacts(johnFacts) {
   var jfact = ""
   var factsCount = 1 
   var newFacts = []
+  
   while(factsCount < johnFacts.length){
-    jFact = johnFacts[i] + "!!!"
+    jFact = johnFacts[factsCount] + "!!!"
     newFacts.push(jFact)
     
   }
