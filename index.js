@@ -23,9 +23,15 @@ function johnLennonFacts(johnFacts) {
   return newFacts
 }
 
-function iLoveTheBeatles(){
+function iLoveTheBeatles(numCount){
   var loveTheBeetles = []
-  var loopCount = 
+  var loopCount = 0
+  
+  do {
+    loveTheBeetles.push("I love the Beatles!")
+    
+  }
+  
 }
 
 
