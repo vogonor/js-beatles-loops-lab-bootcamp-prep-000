@@ -17,7 +17,7 @@ function johnLennonFacts(johnFacts) {
   while(factsCount < johnFacts.length){
     jFact = johnFacts[factsCount] + "!!!"
     newFacts.push(jFact)
-    factsCount--
+    factsCount++
     
   }
   return newFacts
