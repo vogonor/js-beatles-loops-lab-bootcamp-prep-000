@@ -29,9 +29,9 @@ function iLoveTheBeatles(numCount){
   
   do {
     loveTheBeetles.push("I love the Beatles!")
-    
-  }
-  
+    numCount++
+  }while(numCount < 15)
+  return loveTheBeetles
 }
 
 
